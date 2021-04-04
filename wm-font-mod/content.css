@@ -1,0 +1,4 @@
+body .leftColumn table td .bidsList tr td b,
+body .leftColumn table td .bidsList.first tr:not(:first-child) td:last-child span {
+	font-size: 13px!important;
+}
